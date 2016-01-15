@@ -1,0 +1,14 @@
+.button-primary {
+  text-transform: uppercase;
+  font-family:'brandongrotesque-black-webfont';
+  font-size 11px;
+  border: 1px solid #000;
+  letter-spacing: 2px;
+  padding:10px 0 0 0;
+  line-height:2em;
+  text-align: center;
+  text-decoration:none;
+  color:#fff;
+  background: #000;
+  display:block;
+}
